@@ -100,5 +100,5 @@ node_modules/
 ```
 
 ## License & Contact 📬
-This demo is provided as-is for learning and prototyping. No license specified — add one if you plan to publish.  
+This demo is provided as-is for learning and prototyping. No license specified, add one if you plan to publish.  
 Questions or improvements: open an issue or submit a PR on your
