@@ -26,10 +26,10 @@ Important notes:
 - body-parser
 
 ## Project structure 📁
-- index.js — API server (runs on port 4000)
-- server.js — Frontend server (renders views on port 3000)
-- views/ — EJS templates
-- public/ — static assets (CSS, client JS)
+- index.js: API server (runs on port 4000)
+- server.js: Frontend server (renders views on port 3000)
+- views/: EJS templates
+- public/: static assets (CSS, client JS)
 - package.json
 
 ## Prerequisites ⚙️
