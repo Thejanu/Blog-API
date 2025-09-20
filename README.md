@@ -93,12 +93,6 @@ Feel free to open issues or submit PRs to:
 - Improve validation and error handling
 - Add tests or CI
 
-## .gitignore suggestion
-```
-node_modules/
-.DS_Store
-```
-
 ## License & Contact 📬
 This demo is provided as-is for learning and prototyping. No license specified, add one if you plan to publish.  
 Questions or improvements: open an issue or submit a PR on your
