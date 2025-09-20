@@ -92,7 +92,3 @@ Feel free to open issues or submit PRs to:
 - Add persistence
 - Improve validation and error handling
 - Add tests or CI
-
-## License & Contact 📬
-This demo is provided as-is for learning and prototyping. No license specified, add one if you plan to publish.  
-Questions or improvements: open an issue or submit a PR on your
